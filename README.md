@@ -1,1 +1,2 @@
-# ios-converter
+# Converter iOS APP
+Built for studying purposes
